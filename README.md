@@ -1,6 +1,6 @@
 # Bespoke Post markup exercise
 
-Each month Bespoke Post delivers new boxes to our subscribers. This exercise is your chance to show us your HTML, CSS, & Javascript skills by creating a sample box page. There is a a PDF mockup of the page included in this repo.
+Each month Bespoke Post delivers new boxes to our subscribers. This exercise is your chance to show us your HTML, CSS, & Javascript skills by creating a sample box page. There is [a PDF mockup](https://github.com/bespokepost/html_test/raw/master/examples/mockup.pdf) of the page included in this repo and [a few annotated images](https://github.com/bespokepost/html_test/tree/master/examples).
 
 To complete this exercise, begin by cloning this repository. Your assignment is to build out this page using HTML, CSS, & Javascript. Some notes:
 
