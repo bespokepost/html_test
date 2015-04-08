@@ -2,7 +2,7 @@
 
 Each month Bespoke Post delivers new boxes to our subscribers. This exercise is your chance to show us your HTML, CSS, & Javascript skills by creating a sample box page. There is [a PDF mockup](https://github.com/bespokepost/html_test/raw/master/examples/mockup.pdf) of the page included in this repo and [a few annotated images](https://github.com/bespokepost/html_test/tree/master/examples).
 
-To complete this exercise, begin by cloning this repository. Your assignment is to build out production-ready implementation of this page using HTML, CSS, & Javascript. Some notes:
+To complete this exercise, begin by cloning this repository. Your assignment is to build out a production-ready implementation of this page using HTML, CSS, & Javascript. Some notes:
 
 * Please use placeholder images (e.g. http://placehold.it/940x540.png&text=Top+Slide) for now.
 * The top module is a basic slider, don't overlook the counter in the bottom right corner.
