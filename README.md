@@ -8,7 +8,7 @@ To complete this exercise, begin by cloning this repository. Your assignment is 
 * The green bars overlaid on the mockup represent the grid system to be used for the layout.
 * The top module is a basic "carousel" where the content can be cycled to feature 4 different products. Don't worry about implementing any sophisticated transition effects but the copy and images should change together.
 * There are images for each of the products in the `images` folder.
-* There is copy provided for each product below.
+* There is copy provided for each product [below](https://github.com/bespokepost/html_test#product-copy-names--descriptions).
 
 
 When you are done please follow these instructions:
@@ -17,11 +17,13 @@ When you are done please follow these instructions:
 2. If you've opted to use something like sass, please provide build instructions and make sure the repo you send over is ready to be built.
 3. Do NOT post your work to a public Github repo and send us a Pull Request, we wouldn't want any other applicants to copy your work.
 
-### Good luck!
+Good luck!
 
 
 
-## Product Copy (names & descriptions):
+## Product Copy (names & descriptions)
+
+The copy to be cycled with the images:
 
 * Alchemy: Stock your home bar with pro-level cocktail wares.
 * Mangia: Homemade dinner, handmade pasta.
