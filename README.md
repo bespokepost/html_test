@@ -27,6 +27,6 @@ Good luck!
 The copy to be cycled with the images:
 
 * Alchemy: Stock your home bar with pro-level cocktail wares.
-* Mangia: Homemade dinner, handmade pasta.
+* Aged: A toast to the perfectly aged cocktail.
 * Refresh: Bring some class to your morning routine.
 * Weekender: Don't just get away from the crowds — stand out from them.
