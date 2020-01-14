@@ -9,7 +9,7 @@ To complete this exercise, begin by cloning this repository. Your assignment is 
 * The top module is a basic "carousel" where the content can be cycled to feature 4 different products. Don't worry about implementing any sophisticated transition effects but the copy and images should change together.
 * There are images for each of the products in the `images` folder.
 * There is copy provided for each product [below](https://github.com/bespokepost/html_test#product-copy-names--descriptions).
-
+* You are free to use other tools than Vanilla JS and regular CSS if you prefer so. If you do, please explain your choices.
 
 When you are done please follow these instructions:
 
